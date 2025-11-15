@@ -1,0 +1,14 @@
+# # hii 
+# # i am aditya 
+# # i am a beginner 
+# # i am going to comment all the above lines with this line also
+
+# print('Hii i am a good boy\'  "\nthis is not good")
+
+# print("hello world")
+
+# print("this is a print statement")
+# Print("hello world !!!")
+
+    print("Hey", 6,7,sep="~",end= "009")
+    print("adi")
